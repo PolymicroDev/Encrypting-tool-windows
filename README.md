@@ -1,5 +1,5 @@
 # Encrypting-tool-windows
-An encryptor tool with an interactive windows form. It is able to encrypt every existing file
+An encryptor tool with an interactive windows form. It is able to encrypt every existing file in the desired folder.
 
 Requirements, tools that need to be installed:
 - Windows OS
