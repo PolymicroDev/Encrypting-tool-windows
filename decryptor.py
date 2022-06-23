@@ -2,8 +2,6 @@ import os
 from cryptography.fernet import Fernet
 files = list()
 
-
-
 for i in os.listdir():
     if i=="encryptor.py" or i == "decryptor.py" or i== "key1.key":
         continue
